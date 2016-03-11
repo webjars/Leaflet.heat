@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>Leaflet.heat</artifactId>
-    <version>0.2.0</version>
+    <version>0.2.1-SNAPSHOT</version>
     <name>Leaflet.heat</name>
     <description>WebJar for Leaflet.heat</description>
     <url>http://webjars.org</url>
@@ -53,7 +53,7 @@
         <url>http://github.com/webjars/Leaflet.heat</url>
         <connection>scm:git:https://github.com/webjars/Leaflet.heat.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/Leaflet.heat.git</developerConnection>
-        <tag>Leaflet.heat-0.2.0</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
